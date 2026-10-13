@@ -98,7 +98,7 @@ The exact contents may vary depending on the current project version.
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/Prasanna45773/Autonomous-cybersecurity-system.git
+git clone https://github.com/dhanyaspurthia-06/Autonomous-cybersecurity-system.git
 cd autonomous-cybersecurity-system
 ```
 
